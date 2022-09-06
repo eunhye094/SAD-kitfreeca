@@ -1,0 +1,5 @@
+은혜	디지몬 어드벤처	src/Ficture/0.jpg	만화	게임	불가능	0	0	-1
+밥	연애혁명 200화	src/Ficture/1.jpg	소설	음식	가능	3201	12	-5
+지우	파이리잡았다	src/Ficture/2.jpg	만화	스포츠	불가능	95	108	-5
+JJEoP	나는 페럿	src/Ficture/3.jpg	소설	스포츠	불가능	10	22	-1
+관리자	롤 하고 싶당	src/Ficture/9.png	만화	게임	가능	400	3	-1
